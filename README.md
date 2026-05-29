@@ -1,1 +1,1 @@
-The GAN network has been uploaded to the main branch, and the dataset has been uploaded to the master branch. The remaining parts are being organized and uploaded.
+The code for the GAN network and the HTGL model has been uploaded to the main branch, and the dataset files have been uploaded to the master branch. The remaining parts are being organized and will be uploaded in due course.
